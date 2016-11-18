@@ -1,0 +1,22 @@
+{
+    "name": "shenzhongwei/yii2-jpush",
+    "description": "yii2 extension for jpush",
+    "homepage": "https://github.com/yii2-extension/yii2-jpush",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "shenzhongwei",
+            "email": "love7982329@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "szw\\jpush\\": "src"
+        }
+    }
+}
