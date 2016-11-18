@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist shenzhongwei/yii2-jpush "*"
 or add
 
 ```
-"seagull/yii2-jpush": "*"
+"shenzhongwei/yii2-jpush": "*"
 ```
 
 to the require section of your `composer.json` file.
